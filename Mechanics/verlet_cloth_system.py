@@ -103,7 +103,7 @@ def find_particle(pos):
             break
 
 
-delta_t = 0.1
+delta_t = 0.2
 NUM_ITER = 3
 mouse = False
 mouse_pos = (0, 0)

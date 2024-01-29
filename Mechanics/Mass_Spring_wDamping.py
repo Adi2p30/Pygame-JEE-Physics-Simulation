@@ -22,7 +22,7 @@ RED = (255, 0, 0)
 delta_t = 0.1
 m = 1
 k = 0.5  # Spring Constant
-c = 0.2 # Damping Constant
+c = 0 # Damping Constant
 x = 500
 y = 250
 
